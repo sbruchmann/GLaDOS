@@ -1,0 +1,24 @@
+{
+  "name": "glados",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Steffen Bruchmann <hi@sbruchmann.me> (http://sbruchmann.me)",
+  "license": "MIT",
+  "dependencies": {
+    "cleverbot-node": "0.2.6",
+    "discord.js": "11.0.0",
+    "dot-prop": "4.1.0",
+    "franc": "2.0.0",
+    "fs-promise": "1.0.0",
+    "fuzzyset.js": "0.0.1",
+    "node-ddg-api": "0.1.4",
+    "redux": "3.6.0",
+    "to-exports": "0.1.0"
+  }
+}
